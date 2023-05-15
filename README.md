@@ -1,5 +1,5 @@
 
-# Hi there,I am Volodin Sergey )
+# Hi there, I am Volodin Sergey )
 
 ---
 
@@ -26,9 +26,8 @@
     <a href="https://t.me/alpaca50" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
-  
     <a href="https://vk.com/id595008395" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/2048px-VK_Compact_Logo_%282021-present%29.svg.png" width="40" height="40" alt="VK Badge"/>
     </a>
   </div>
 
