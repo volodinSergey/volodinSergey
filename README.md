@@ -1,9 +1,9 @@
 
-# Привет, меня зовут Алексей!
+# Welcome, My name is Sergey, I am a Frontend Developer !)
 
 ---
 
-### :man_technologist: Обо мне:
+### :man_technologist: About me:
 
 Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался со Школы 21 от Сбера, где я прошел интенсив. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила веб разработка! С мая 2022 года по апрель 2023 я изучал веб разработку на курсах Яндекс Практикум. В настоящий момент мое обучение на курсе завершено и я нахожусь в поисках работы, параллельно с этим я стал Старшим студентом на курсе и помогаю новичкам осваивать веб-разработку!
 
@@ -29,7 +29,7 @@
     <a href="https://www.youtube.com/channel/UCbORpXVw1JNc0JYFSUqLWXA" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
     </a> -->
-    <a href="https://vk.com/f1ll_zzz" target="_blank">
+    <a href="https://vk.com/id595008395" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
     <!-- <a href="https://dzen.ru/tehnomaniak" target="_blank">
