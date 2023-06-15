@@ -10,7 +10,7 @@ I am a Frontend Engineer<img  src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ### 🤝 My social networks:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/sergey-volodin/" target="_blank">
+    <a  href="https://www.linkedin.com/in/sergey-volodin/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://t.me/alpaca50" target="_blank">
