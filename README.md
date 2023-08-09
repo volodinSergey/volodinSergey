@@ -3,7 +3,7 @@
 
 ---
 
-### :man_technologist: About me:
+### :man_technologist: About me :
 
 I am a Frontend Engineer<img  src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"  width="30px"> Love my work )
 
